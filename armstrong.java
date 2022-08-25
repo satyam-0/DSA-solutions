@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class armstrong {
@@ -7,6 +8,7 @@ public class armstrong {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         System.out.println("your number is " + number);
+	// write your logic here
     }
 
 }
