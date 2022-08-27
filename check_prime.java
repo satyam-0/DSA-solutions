@@ -15,5 +15,7 @@ public class check_prime {
         }
         System.out.println(" Congrats, this is a prime number");
 
+	// adding comments through vim i git
+	//
     }
 }
